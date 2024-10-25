@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GTRunner
+Bundle-SymbolicName: GTRunner
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: GTRunner
+Export-Package: .
+Require-Bundle: Metamodel;bundle-version="0.0.1",
+ GTProject;bundle-version="1.0.0",
+ org.emoflon.ibex.common;bundle-version="1.0.0",
+ org.emoflon.ibex.gt;bundle-version="1.0.0",
+ org.emoflon.ibex.gt.hipe;bundle-version="1.0.0"
+Import-Package: org.emoflon.ibex.gt.engine

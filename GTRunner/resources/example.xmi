@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metamodel:Root
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:Metamodel="platform:/resource/Metamodel/model/Metamodel.ecore">
+  <items name="testName"/>
+</Metamodel:Root>

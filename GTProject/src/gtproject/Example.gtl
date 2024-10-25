@@ -1,0 +1,10 @@
+package gtproject.example
+import "platform:/resource/Metamodel/model/Metamodel.ecore"
+
+pattern findItem {
+	[=] item : Item
+};
+
+pattern findRoot {
+	[=] root : Root
+};
